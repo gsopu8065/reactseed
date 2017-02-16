@@ -1,7 +1,7 @@
 # reactseed
 
 
-# clone and install
-Step1: npm clone https://github.com/gsopu8065/reactseed
-Step2: npm install
-Step3: npm run start
+# clone and install <br/>
+Step1: npm clone https://github.com/gsopu8065/reactseed <br/>
+Step2: npm install <br/>
+Step3: npm run start <br/>
