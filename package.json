@@ -1,0 +1,22 @@
+{
+  "name": "reactseed",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "webpack-dev-server --hot --port 9055"
+  },
+  "dependencies": {
+
+    "babel": "^0.0.1",
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.1",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
